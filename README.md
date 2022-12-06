@@ -1,2 +1,3 @@
 # myfirstproject
-this is my first project
+
+This is my first R project.
